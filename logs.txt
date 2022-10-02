@@ -1,0 +1,4 @@
+[2022-09-14 17:54:55.779] [mylogger] [info] Hello world!
+[2022-10-02 11:37:12.486] [mylogger] [info] Hello world!
+[2022-10-02 12:03:06.114] [mylogger] [info] Hello world!
+[2022-10-02 12:06:57.901] [mylogger] [info] Hello world!
