@@ -5,7 +5,8 @@
 
 int main(){
 
-
+    //output message to the terminal
+    
     spdlog::info("Hello world!");
     
     //log message to file
